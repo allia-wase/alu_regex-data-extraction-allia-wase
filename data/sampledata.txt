@@ -1,0 +1,9 @@
+Contact us at user@example.com or firstname.lastname@company.co.uk.
+Visit our website at https://www.example.com or http://subdomain.example.org/page.
+Call us at (123) 456-7890, 123-456-7890, or 123.456.7890.
+The meeting is scheduled for 14:30 or 2:30 PM.
+<p>This is a paragraph.</p>
+<div class="example">Example div</div>
+<img src="image.jpg" alt="description">
+Check out #example or #ThisIsAHashtag.
+The total cost is $19.99 or $1,234.56.
